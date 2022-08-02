@@ -1,0 +1,39 @@
+h1{
+  color: silver;
+  font-family: calibri;
+  font-size: 30px;
+
+}
+h2{
+  color:silver;
+  font-family: calibri;
+  font-size: 30px;
+}
+h3{
+  color: silver;
+  font-family: calibri;
+  font-size: 30px;
+}
+h4{
+  color:silver;
+  font-family: calibri;
+  font-size: 30px;
+}
+p{
+  color:darkgrey;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+ul{
+  color:silver;
+  font-family: calibri;
+  font-size: 20px;
+}
+title{
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: maroon
+}
+body{
+  background-color: maroon;
+}
