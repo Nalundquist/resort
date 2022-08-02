@@ -1,0 +1,44 @@
+h1{
+  font-size: 45px;
+  color: mediumspringgreen;
+  font-family:Verdana;
+}
+
+h2 {
+  font-size: 32px;
+  color: magenta;
+  font-family: Verdana;
+}
+
+h3 {
+  font-size: 26px;
+  color: chartreuse;
+  font-family: Verdana;
+}
+
+h4{
+  font-size: 20px;
+  color: palevioletred;
+  font-family:Segoe UI;
+}
+
+ul{
+  font-size: 20px;
+  color: palevioletred;
+  font-family: Segoe UI;
+
+}
+ p{
+  font-size: 20px;
+  color: palevioletred;
+  font-family: 'Segoe UI';
+
+ }
+
+ strong {
+  font-style: oblique;
+ }
+
+ body {
+  background-color: darkgreen;
+ }
